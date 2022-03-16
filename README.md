@@ -31,3 +31,6 @@ In totaal zijn er twaalf punten te halen. Omdat er veel activiteiten plaatsvinde
 **1.3**: 9 t/m 12 OF alleen 13  
 **1.4**: 15 en 16  
 **2**: 21 t/m 25  
+**3**: 26 t/m 29
+**4.1**: 30 t/m 33
+**4.2**: 34 t/m 37 OF alleen 38
