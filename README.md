@@ -4,18 +4,18 @@
 |Les |Inhoud |Opmerking |
 |:--:|:-----:|:--------:|
 |0   |Intro  |          |
-|1   |H1     |          |
-|2   |H1     |          |
-|3   |H1     |          |
-|4   |H1     |G5 excursie|
-|5   |H2     |BSM sportdag|
-|6   |H3     |Verkort   |
-|7   |H4     |Olomouc   |
-|8   |H4     |          |
-|9   |H5     |          |
-|xx  |Toetsweek|        |
-|10  |H5     |          |
-|11  |*TBA*\*|          |
+|1   |H1: buffer overflow        |            |
+|2   |H1: CSRF                   |            |
+|3   |H1: XSS                    |            |
+|4   |H1: etisch hacken          |G5 excursie |
+|5   |H2: authenticatie          |BSM sportdag|
+|6   |H3: social engineering     |Verkort     |
+|7   |H4: symmetrische encryptie |Olomouc     |
+|8   |H4: decryptie              |            |
+|9   |H5: asymmetrische encryptie|            |
+|xx  |Toetsweek                  |            |
+|10  |H5: web-certificaten       |            |
+|11  |*TBA*\*                    |            |
 
 \* To Be Announced: geen extra stof maar challenges waarmee je een punt kunt verdienen.
 
